@@ -1,0 +1,52 @@
+{
+    "Concepts": [
+        {
+            "Terme": "Machine Learning",
+            "Définition": "Sous-domaine de l'IA basé sur l'apprentissage à partir de données."
+        },
+        {
+            "Terme": "Deep Learning",
+            "Définition": "Apprentissage automatique utilisant des réseaux neuronaux profonds."
+        },
+        {
+            "Terme": "NLP",
+            "Définition": "Traitement du langage naturel pour comprendre et générer du texte."
+        },
+        {
+            "Terme": "Transformateur",
+            "Définition": "Architecture clé pour le traitement séquentiel en NLP."
+        },
+        {
+            "Terme": "Overfitting",
+            "Définition": "Modèle trop spécialisé sur les données d'entrainement."
+        },
+        {
+            "Terme": "Prompt Engineering",
+            "Définition": "Art de formuler des entrées optimales pour les modèles d'IA."
+        },
+        {
+            "Terme": "Chain-of-Thought",
+            "Définition": "Technique où l'IA expose ses raisonnements étapes par étapes."
+        },
+        {
+            "Terme": "Fine-tuning",
+            "Définition": "Réentraînement ciblé d'un modèle existant sur de nouvelles données."
+        },
+        {
+            "Terme": "Zero-shot Learning",
+            "Définition": "Capacité d'un modèle à généraliser à des tâches non vues pendant l'entraînement."
+        },
+        {
+            "Terme": "Few-shot Learning",
+            "Définition": "Capacité à apprendre une tâche à partir de très peu d'exemples."
+        },
+        {
+            "Terme": "RAG (Retrieval-Augmented Generation)",
+            "Définition": "Méthode combinant récupération d'information et génération de texte."
+        },
+        {
+            "Terme": "GraphRAG",
+            "Définition": "Extension du RAG utilisant des graphes de connaissances."
+        }
+    ]
+}

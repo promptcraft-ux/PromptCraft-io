@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Niveau 38 – Assistant IA pour PromptCraft</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header, footer {
+      background: #2c3e50; color: white; padding: 1rem; text-align: center;
+    }
+    main {
+      padding: 2rem;
+    }
+    .assistant-widget {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #ffffff;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      width: 330px;
+      padding: 1rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+    }
+    .assistant-widget input {
+      width: 70%;
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+    }
+    .assistant-widget button {
+      padding: 0.5rem;
+    }
+    .assistant-log {
+      max-height: 200px;
+      overflow-y: auto;
+      font-size: 0.9em;
+      margin-top: 1rem;
+    }
+    .assistant-log p {
+      margin: 0.3rem 0;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🚀 Assistant IA pour PromptCraft – Niveau 38</h1>
+  </header>
+
+  <main>
+    <h2>Bienvenue dans votre générateur de prompts intelligents</h2>
+    <p>Cette page intègre un assistant IA qui vous aide à concevoir des prompts optimisés pour GPT-4.</p>
+    <p><strong>Essayez une commande :</strong> "génère un prompt pour un chatbot", "prompt pour résumé de texte", "aide à la rédaction de prompt GPT".</p>
+  </main>
+
+  <div id="assistant" class="assistant-widget hidden">
+    <strong>🧠 Assistant GPT Prompt</strong>
+    <div class="assistant-log" id="assistant-log"></div>
+    <input type="text" id="assistant-input" placeholder="Votre question..." />
+    <button onclick="askIA()">Envoyer</button>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 – Assistant IA PromptCraft intégré</p>
+  </footer>
+
+  <script>
+    const assistant = document.getElementById("assistant");
+    const log = document.getElementById("assistant-log");
+    const input = document.getElementById("assistant-input");
+
+    const triggerWords = ["prompt", "gpt", "chatbot", "texte", "intention"];
+    const bodyText = document.body.innerText.toLowerCase();
+
+    // Détection automatique d'intérêt pour prompts
+    if (triggerWords.some(word => bodyText.includes(word))) {
+      assistant.classList.remove("hidden");
+      log.innerHTML += "<p><em>Assistant : Vous semblez travailler sur des prompts. Besoin d’aide ?</em></p>";
+    }
+
+    function askIA() {
+      const question = input.value.trim().toLowerCase();
+      if (!question) return;
+      log.innerHTML += `<p><strong>👤 :</strong> ${question}</p>`;
+      let response = "Voici un modèle de prompt : « Agis comme un assistant expert en prompts GPT ».";
+
+      if (question.includes("chatbot")) {
+        response = "🎯 Prompt : « Agis comme un chatbot intelligent spécialisé en orientation académique. Pose-moi des questions et réponds-moi de manière interactive. »";
+      } else if (question.includes("résumé")) {
+        response = "📄 Prompt : « Résume le texte suivant en trois phrases claires et structurées : [coller le texte ici] »";
+      } else if (question.includes("formulaire")) {
+        response = "🧾 Prompt : « Génère un formulaire HTML interactif pour collecter des feedbacks utilisateurs. »";
+      } else if (question.includes("prompt")) {
+        response = "💡 Prompt : « Propose-moi 3 variantes de prompt pour créer un générateur d’images AI à partir de descriptions »";
+      }
+
+      log.innerHTML += `<p><strong>🤖 :</strong> ${response}</p>`;
+      input.value = '';
+      log.scrollTop = log.scrollHeight;
+    }
+
+    // Export de composant réutilisable
+    window.AssistantIAComponent = {
+      init: function(mountId, triggers) {
+        const container = document.getElementById(mountId);
+        container.innerHTML = assistant.outerHTML;
+        if (triggers.some(w => document.body.innerText.toLowerCase().includes(w))) {
+          container.querySelector(".assistant-widget").classList.remove("hidden");
+        }
+      }
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Config
+metadata:
+  name: sample-api-config
+spec:
+  endpoint: "https://api.example.com"
+  method: "POST"

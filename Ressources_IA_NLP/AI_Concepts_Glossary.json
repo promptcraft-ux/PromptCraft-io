@@ -1,0 +1,12 @@
+{
+    "Transformer": "Architecture exploitant le mécanisme d'attention pour traiter des séquences.",
+    "Attention Mechanism": "Capacité d'un modèle à se concentrer sur des parties pertinentes d'une entrée.",
+    "Prompt Engineering": "Conception méthodique d'instructions pour guider des IA génératives.",
+    "Fine-Tuning": "Affinage d'un modèle pré-entraîné sur un ensemble de données spécifiques.",
+    "Zero-shot learning": "Capacité à résoudre une tâche jamais rencontrée pendant l'entraînement.",
+    "Few-shot learning": "Résolution de tâche avec très peu d'exemples fournis.",
+    "Chain-of-Thought Prompting": "Technique qui guide l'IA à expliciter son raisonnement étape par étape.",
+    "Meta-Prompting": "Utilisation de prompts pour générer d'autres prompts automatiquement.",
+    "Reinforcement Learning": "Apprentissage basé sur la récompense et la pénalisation des actions.",
+    "Self-Supervised Learning": "Technique où le modèle génère ses propres labels à partir des données."
+}

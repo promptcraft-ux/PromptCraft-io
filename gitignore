@@ -1,0 +1,23 @@
+
+# 🗃️ .gitignore pour PromptCraft
+
+# Environnements
+__pycache__/
+*.py[cod]
+env/
+venv/
+*.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Données générées
+*.log
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Fichiers spécifiques à VSCode
+.vscode/
