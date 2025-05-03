@@ -47,3 +47,4 @@ python scripts/PromptCraft_Verification_Script.py
 
 ## 🔒 Licence
 MIT – Utilisation libre à des fins pédagogiques et expérimentales
+📁 [Voir la structure complète du projet](tree.md)
