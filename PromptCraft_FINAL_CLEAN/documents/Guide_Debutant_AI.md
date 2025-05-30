@@ -1,0 +1,2 @@
+# L'intelligence artificielle pour tous – Guide du débutant (Version enrichie)
+[Contenu détaillé du guide, incluant IA de base, machine learning, plan 30 jours, outils IA générative, projets pratiques, éthique]

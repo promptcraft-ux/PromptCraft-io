@@ -1,0 +1,22 @@
+[
+    {
+        "Objectif": "Analyse",
+        "Prompt": "Analyse les conséquences de l'automatisation sur l'emploi manufacturier."
+    },
+    {
+        "Objectif": "Création",
+        "Prompt": "Crée une fable moderne illustrant le pouvoir de la curiosité."
+    },
+    {
+        "Objectif": "Débat",
+        "Prompt": "Argumente pour ou contre l'enseignement 100% virtuel dans les universités."
+    },
+    {
+        "Objectif": "Planification",
+        "Prompt": "Propose une stratégie pour accélérer l'adoption de l'énergie solaire en Afrique."
+    },
+    {
+        "Objectif": "Résolution de problèmes",
+        "Prompt": "Suggère trois méthodes innovantes pour améliorer l'accès à l'eau potable."
+    }
+]
