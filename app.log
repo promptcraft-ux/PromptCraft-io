@@ -1,0 +1,88 @@
+2025-05-30 19:53:47,412 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 19:53:47,595 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 19:53:47,596 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 19:53:47,702 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 19:53:48,075 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 19:53:48,112 - WARNING -  * Debugger is active!
+2025-05-30 19:53:48,116 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 19:53:58,188 - INFO - ✅ Route / appelée avec succès
+2025-05-30 19:53:58,213 - INFO -  * Detected change in 'C:\\Users\\attc2\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\app.py', reloading
+2025-05-30 19:53:58,310 - INFO -  * Detected change in 'C:\\Users\\attc2\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-05-30 19:53:58,310 - INFO -  * Detected change in 'C:\\Users\\attc2\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-05-30 19:53:58,310 - INFO -  * Detected change in 'C:\\Users\\attc2\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py', reloading
+2025-05-30 19:53:58,310 - INFO -  * Detected change in 'C:\\Users\\attc2\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py', reloading
+2025-05-30 19:53:58,310 - INFO -  * Detected change in 'C:\\Users\\attc2\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py', reloading
+2025-05-30 19:53:58,320 - INFO - 127.0.0.1 - - [30/May/2025 19:53:58] "GET / HTTP/1.1" 200 -
+2025-05-30 19:53:59,304 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 19:53:59,699 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 19:53:59,752 - WARNING -  * Debugger is active!
+2025-05-30 19:53:59,755 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 19:57:03,572 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 19:57:03,574 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 19:57:04,413 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 19:57:04,785 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 19:57:04,817 - WARNING -  * Debugger is active!
+2025-05-30 19:57:04,819 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 19:59:09,812 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 19:59:09,814 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 19:59:10,236 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 19:59:10,578 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 19:59:10,610 - WARNING -  * Debugger is active!
+2025-05-30 19:59:10,613 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 20:07:31,872 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:07:31,875 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:07:32,926 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:07:33,325 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:07:33,359 - WARNING -  * Debugger is active!
+2025-05-30 20:07:33,362 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 20:10:31,809 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:10:31,810 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:10:32,923 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:10:33,309 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:10:33,353 - WARNING -  * Debugger is active!
+2025-05-30 20:10:33,356 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 20:10:37,121 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:10:37,201 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 20:10:37,201 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 20:10:37,204 - INFO -  * Restarting with stat
+2025-05-30 20:10:37,612 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:10:37,646 - WARNING -  * Debugger is active!
+2025-05-30 20:10:37,656 - INFO -  * Debugger PIN: 400-228-444
+2025-05-30 20:11:02,569 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:02,570 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:03,235 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:03,300 - INFO -  * Restarting with stat
+2025-05-30 20:11:03,583 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:11:03,673 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:11:03,703 - WARNING -  * Debugger is active!
+2025-05-30 20:11:03,714 - INFO -  * Debugger PIN: 400-228-444
+2025-05-30 20:11:03,950 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:11:03,987 - WARNING -  * Debugger is active!
+2025-05-30 20:11:03,992 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 20:11:41,219 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:41,220 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:41,222 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:41,410 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:11:41,467 - INFO -  * Restarting with stat
+2025-05-30 20:11:41,811 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:11:41,835 - WARNING -  * Debugger is active!
+2025-05-30 20:11:41,843 - INFO -  * Debugger PIN: 400-228-444
+2025-05-30 20:11:42,289 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-30 20:11:42,712 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:11:42,750 - WARNING -  * Debugger is active!
+2025-05-30 20:11:42,754 - INFO -  * Debugger PIN: 198-070-590
+2025-05-30 20:11:47,930 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:11:47,993 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-30 20:11:47,994 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-30 20:11:47,996 - INFO -  * Restarting with stat
+2025-05-30 20:11:48,372 - INFO - 🚀 Démarrage du serveur Flask avec les templates : c:\Users\attc2\Documents\PromptCraft-io-main\PromptCraft-io\templates
+2025-05-30 20:11:48,402 - WARNING -  * Debugger is active!
+2025-05-30 20:11:48,412 - INFO -  * Debugger PIN: 400-228-444
+2025-05-30 20:12:25,259 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:12:25,259 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:12:25,259 - INFO -  * Detected change in 'c:\\Users\\attc2\\Documents\\PromptCraft-io-main\\PromptCraft-io\\scripts\\app.py', reloading
+2025-05-30 20:12:26,024 - INFO -  * Restarting with watchdog (windowsapi)
+{"error": "Access denied"}
