@@ -4,12 +4,12 @@
 
 PromptCraft-io is a modular environment designed to:
 
-- 🧠 Learn generative AI foundations  
-- 🛠️ Create, structure and test dynamic prompts  
-- 🔗 Integrate APIs, middlewares, and GPT assistants  
-- ✅ Automated unit testing tools  
+- 🎓 Learn generative AI foundations (NLP, Transformers, LLMs)
+- 🛠️ Create, structure and test dynamic GPT prompts
+- 🔌 Integrate APIs, middlewares, and external GPT assistants
+- ✅ Automate testing and version control of prompt projects
 
-## 📂 Structure du projet / Project structure
+### 📦 Project structure
 
 It includes:
 
